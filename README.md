@@ -1,6 +1,3 @@
-Here are some ideas to get you started:
-ㄴ
-
 - I ❤️ to study about Math and Computer Science   
 - 💪 My major is Artificial Intelligence & Computer engineering
 - 🔭 I’m currently working on Korea Univ AI Grad
