@@ -9,3 +9,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shiny0510/shiny0510" alt="visitor"/>
+</p>
