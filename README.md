@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Seunghwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiny0510)](https://github.com/shiny0510/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiny0510&layout=compact)](https://github.com/shiny0510/github-readme-stats)
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shiny0510/shiny0510" alt="visitor"/>
 </p>
