@@ -3,7 +3,7 @@
 - 💪 My major is ..
   <br/>
   <br/>
-  <h> 1. Artificial Intelligence <h>
+  <h> 1. Artificial Intelligence </h>
    - Visual based Anomaly detection
    - Super Resolution learning GAN
    - Bayesian learning 
