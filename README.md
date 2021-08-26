@@ -3,10 +3,10 @@
 - 💪 My major is ..
   <br/>
 
-  2. Artificial Intelligence 
-    - Visual based Anomaly detection
-    - Super Resolution learning GAN
-    - Bayesian learning 
+  1. Artificial Intelligence 
+   - Visual based Anomaly detection
+   - Super Resolution learning GAN
+   - Bayesian learning 
   <br/> 
   2. Computer engineering Language & skils 
     
