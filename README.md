@@ -26,11 +26,12 @@
     - Apache Tomcat, Apache, AWS, Naver Server
   <br/>
   6. SQL 
-    
+
     - MariaDB, Oracle, MySQL
   <br/>
-  7. Embedded system <br/>
-    - ArduIno, Raspberry Pi
+  7. Embedded system 
+
+  - ArduIno, Raspberry Pi
   <br/>
   
 - 💪 Career
