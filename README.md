@@ -28,13 +28,13 @@
     - MariaDB, Oracle, MySQL
   <br/>
   7. Embedded system 
-    
     - ArduIno, Raspberry Pi
   <br/>
 - 💪 Career
     - 2019.04.15 ~ Current: LGO (CEO)
     - 2017. 01 ~ 2018. 06 : DM Company development team leader (Web, App, Server, foreign trade)
     - 2018. 09 ~ 2018. 12 : Digital Convergence-based Application SW Engineering (Korea Information Technology Research Institute)
+  
   <br/>  
 
 <!--- 🌱 Project -->
