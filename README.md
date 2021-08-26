@@ -48,7 +48,7 @@
     - 2018.12 Startup Idea Contest (Best Excellence in Acting Award)    
   <br/>
 - 🌱 Patent
-    - 2018.01.08 (No. 10-2018-0002314) 악기연주 교육용 어플리케이션
+    - 2018.01.08 (No. 10-2018-0002314) Musical instrument training application
     - 2018.10.08 (No. 10-2018-0119515) Smart Flowerpot System
   <br/>
 
