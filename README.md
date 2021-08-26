@@ -35,7 +35,7 @@
   <br/>
   
 - 💪 Career
-    - 2019.04.15 ~ Current: LGO (CEO)
+    - 2019.04.15 ~ Current: LGO (Personal Business Owner)
     - 2017. 01 ~ 2018. 06 : DM Company development team leader (Web, App, Server, foreign trade)
     - 2018. 09 ~ 2018. 12 : Digital Convergence-based Application SW Engineering (Korea Information Technology Research Institute)
   
