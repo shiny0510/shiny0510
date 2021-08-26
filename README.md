@@ -1,14 +1,13 @@
 - I ❤️ to study about Math and Computer Science, Deveploper
 - 🔭 I’m currently working on Korea Univ AI Grad
 - 💪 My major is ..
-  <br/>
-  <p>1. Artificial Intelligence </p>
+  1. Artificial Intelligence
    - Visual based Anomaly detection
-   <br/>
+   
    - Super Resolution learning GAN
-   <br/>
+   
    - Bayesian learning 
-     <br/> 
+ 
   <br/> 
   2. Computer engineering Language & skils 
     
