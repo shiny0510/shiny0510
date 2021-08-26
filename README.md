@@ -30,6 +30,7 @@
   7. Embedded system 
     - ArduIno, Raspberry Pi
   <br/>
+  
 - 💪 Career
     - 2019.04.15 ~ Current: LGO (CEO)
     - 2017. 01 ~ 2018. 06 : DM Company development team leader (Web, App, Server, foreign trade)
@@ -37,7 +38,6 @@
   
   <br/>  
 
-<!-- 🌱 Project -->
 - 🌱 Aword
     - 2017.09 Chungbuk Startup Leading University (Chungbuk Creative Economy Innovation Center)
     - 2018.10 Chungbuk Region, University Startup Idea Contest (Encouragement Prize), (Small Business Technology Innovation Association Chungbuk Branch)
