@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Korea Univ AI Grad
 - 💪 My major is ..
   <br/>
-  **1. Artificial Intelligence 
+  **1. Artificial Intelligence **
    - Visual based Anomaly detection
    - Super Resolution learning GAN
    - Bayesian learning 
