@@ -7,6 +7,7 @@
    - Super Resolution learning GAN
    - Bayesian learning 
   <br/> 
+  <br/> 
   2. Computer engineering Language & skils 
     
     - Python, Matlab, Docker, Linux, C, C++, R, Java, Javascript, Visual Basic
