@@ -29,7 +29,7 @@
     
     - MariaDB, Oracle, MySQL
   <br/>
-  7. Embedded system 
+  7. Embedded system <br/>
     - ArduIno, Raspberry Pi
   <br/>
   
