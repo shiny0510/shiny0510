@@ -2,9 +2,9 @@
 - 🔭 I’m currently working on Korea Univ AI Grad
 - 💪 My major is ..
   1. Artificial Intelligence - 
-    1) Visual based Anomaly detection
-    2) Super Resolution learning GAN
-    3) Bayesian learning 
+    - Visual based Anomaly detection
+    - Super Resolution learning GAN
+    - Bayesian learning 
     
   2. Computer engineering Language & skils 
     - Python, Matlab, Docker, Linux, C, C++, R, Java, Javascript, Visual Basic
