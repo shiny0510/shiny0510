@@ -8,7 +8,7 @@
    - Super Resolution learning GAN
    <br/>
    - Bayesian learning 
-   
+     <br/> 
   <br/> 
   2. Computer engineering Language & skils 
     
