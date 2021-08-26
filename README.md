@@ -1,8 +1,7 @@
 - I ❤️ to study about Math and Computer Science, Deveploper
 - 🔭 I’m currently working on Korea Univ AI Grad
 - 💪 My major is ..
-- 
-  1. Artificial Intelligence
+  <h> 1. Artificial Intelligence <h>
    - Visual based Anomaly detection
    - Super Resolution learning GAN
    - Bayesian learning 
