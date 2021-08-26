@@ -4,9 +4,11 @@
   <br/>
   <p>1. Artificial Intelligence </p>
    - Visual based Anomaly detection
+   <br/>
    - Super Resolution learning GAN
+   <br/>
    - Bayesian learning 
-  <br/> 
+   
   <br/> 
   2. Computer engineering Language & skils 
     
