@@ -23,7 +23,7 @@
   <br/>
   5. Server management 
     
-    - Apache Tomcat, Apache, AWS, Naver Server
+    - Apache Tomcat, Apache, AWS, Naver Server, Hyper-V
   <br/>
   6. SQL 
 
