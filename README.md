@@ -17,7 +17,7 @@
   <br/> 
   2. Computer engineering Language & skils 
     
-    - Python, Matlab, Docker, Linux, C, C++, R, Java, Javascript, Visual Basic
+    - Python, Matlab, Linux, C, C++, R, Java, Javascript, Visual Basic, Lua, Kotlin 
   <br/>
   3. Graphic Skill
     
@@ -25,7 +25,7 @@
   <br/>
   4. Web 
     
-    - VUE js (Front END), Jango (framework), Java MVC (framework), Express (framework), Spring Boot (framework) 
+    - VUE js (Front END), Jango (framework), React, Express (framework), Spring Boot (framework), Spring
   <br/>
   5. Server management 
     
@@ -33,7 +33,7 @@
   <br/>
   6. SQL 
 
-    - MariaDB, Oracle, MySQL
+    - MariaDB, Oracle, MySQL, PostgreSQL
   <br/>
   7. Embedded system 
 
