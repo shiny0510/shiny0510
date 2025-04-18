@@ -66,14 +66,6 @@
 </p>
 
 
-|기관 | 일시  | 프로젝트명| 깃허브 링크|
-|------|-------|---------|---------|
-|연구소| 2025.4.18|스타일 변환을 위한 GAN | [GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
-|연구소| 2025.4.20|스타일 변환을 위한 분류 | [GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
-|연구소| 2025.4.21|스타일 변환을 위한 Seg | [GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
-
-
-
 
 
 
