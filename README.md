@@ -68,7 +68,12 @@
 
 
 
-
+| 기간 | 프로젝트명 | 링크 |
+|-----|-----------| -------|
+|4.18 | 스타일 생성1| [GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
+|4.18 | 스타일 생성2| [GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
+|4.18 | 스타일 생성3| [GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
+|4.18 | 스타일 생성4| [GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
 
 
 
